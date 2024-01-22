@@ -10,9 +10,8 @@
 
 #### SETUP
 
-2.Fork the Repo
-   <br>
-<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/Fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-
-   
+Fork The Repo
+    <br>
+<br>
+<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/FORK-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
