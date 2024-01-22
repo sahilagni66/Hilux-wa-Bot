@@ -11,13 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Viper-X0/WhatsApp-Bot.git"
+    "url": "git+https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot.git"
   },
   "keywords": [
     "bot",
     "whatsapp"
   ],
-  "author": "Viper-X0",
+  "author": "SUPERIOR",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
@@ -50,7 +50,7 @@
     "yt-search": "^2.10.4"
   },
   "bugs": {
-    "url": "https://github.com/Viper-X0/WhatsApp-Bot/issues"
+    "url": "https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/issues"
   },
   "homepage": "https://github.com/X-Electra/WhatsApp-Bot#readme"
 }
