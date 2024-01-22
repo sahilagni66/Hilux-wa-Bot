@@ -11,7 +11,7 @@
 
 2. Fork The Repo
     <br>
-<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/FORK-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/FORK-1000000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### Deploy
 
