@@ -21,5 +21,4 @@
 
 4.Replit
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot'target="_blank"><img alt='Deploy' src='https://replit.com/@AnandhuA2/Hilux-wa-Bot?s=app'/></a>
-
+<a href='https://replit.com/@AnandhuA2/Hilux-wa-Bot?s=app' target="_blank"><img alt='Deploy' src='https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
