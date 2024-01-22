@@ -1,0 +1,26 @@
+{
+  "name": "HILUX-MD-BOT",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp Bot",
+  "logo": "https://i.imgur.com/zwyUBQw.jpeg",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/S-U-P-E-R-I-O-R/HILUX-MD-BOT",
+  "stack": "container",
+  "env": {
+    "SUDO": {
+      "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
+      "required": true,
+      "value": "13072985194"
+      },
+    "HANDLERS": {
+      "description": "Enter Prefix For Commands",
+      "required": true,
+      "value": "."
+      },
+    "WORK_TYPE": {
+      "description": "Enter private or public",
+      "required": true,
+      "value": "private"
+    }
+  }
+}
