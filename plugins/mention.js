@@ -12,7 +12,7 @@ const {
         m, client, args
     })=> {
 
-        let sudo = SUDO.split(",")
+        let sudo = SUDO.split("919497705819")
         var audios = ["https://i.imgur.com/vY8CfI7.mp4"]
 
         for (any in sudo)
