@@ -6,7 +6,7 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/ForkREPO-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/FORKK-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. scan qr
