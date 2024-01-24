@@ -6,12 +6,12 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/Fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/S-U-P-E-R-I-O-R/Hilux-wa-Bot/fork' target="_blank"><img alt='Fork' src='https://img.shields.io/badge/ForkREPO-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 2. scan qr
     <br>
-<a href='https://viper-x0.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://viper-x0.onrender.com/' target="_blank"><img alt='SCANQR ' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
   
 #### Heroku Deploy
 
